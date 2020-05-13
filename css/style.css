@@ -16,7 +16,7 @@
     top: 0;
     border-width: 0 0 1px;
     position: fixed;
-    z-index: 99;
+    z-index: 9999;
     width: 100%;
   }
     .navbar-collapse.collapse {
