@@ -325,9 +325,8 @@ a:hover, a:focus, a:active {
     position: relative;
     top: 11px;
     width: 230px;
-    background: url(../logo.png) no-repeat left center;
-    background: url(../logo.svg) no-repeat left center, linear-gradient(transparent, transparent);
-    background-size: 200%;
+    background: url(../img/logo.svg) no-repeat left center;
+    background-size: 120%;
   }
 }
 
