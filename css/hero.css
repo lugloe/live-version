@@ -863,14 +863,14 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-cta .btn {
-  float: right;
+  float: center;
   margin-top: 10px;
   margin-bottom: 10px;
 }
 
 @media screen and (max-width: 768px) {
   .probootstrap-cta .btn {
-    float: right;
+    float: center;
     width: 100%;
     margin-top: 25px;
   }
