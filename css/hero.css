@@ -849,7 +849,7 @@ a:hover, a:focus, a:active {
 
 @media screen and (max-width: 768px) {
   .probootstrap-cta h2 {
-    float: none;
+    display: inline-block;
     width: 100%;
     margin: 10px 0 0 0;
     margin-bottom: 10px;
@@ -863,14 +863,14 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-cta .btn {
-  float: center;
+  display: inline-block;
   margin-top: 10px;
   margin-bottom: 10px;
 }
 
 @media screen and (max-width: 768px) {
   .probootstrap-cta .btn {
-    float: center;
+    display: inline-block;
     width: 100%;
     margin-top: 25px;
   }
