@@ -305,7 +305,7 @@ a:hover, a:focus, a:active {
   text-transform: uppercase;
   background: url(../logo.png) no-repeat left center;  
   background: url(../logo.svg) no-repeat left center, linear-gradient(transparent, transparent);
-  background-size: 200%;
+  background-size: contain;
   top: 14px;
   position: relative;
   margin-left: -40px;
@@ -328,7 +328,7 @@ a:hover, a:focus, a:active {
     width: 230px;
     background: url(../logo.png) no-repeat left center;
     background: url(../logo.svg) no-repeat left center, linear-gradient(transparent, transparent);
-    background-size: 120%;
+    background-size: contain;
   }
 }
 
