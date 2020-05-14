@@ -477,6 +477,7 @@ a:hover, a:focus, a:active {
 .probootstrap-hero .probootstrap-hero-text {
   padding-top: 200px;
   padding-bottom: 200px;
+  z-index: 3;
 }
 
 @media screen and (max-width: 768px) {
@@ -513,7 +514,7 @@ a:hover, a:focus, a:active {
 .probootstrap-hero h1 {
   text-transform: uppercase;
   font-size: 52px;
-  color: #181920;
+  color: #fff;
   font-weight: 700;
   margin-bottom: 10px;
   margin-top: 0px;
@@ -535,10 +536,12 @@ a:hover, a:focus, a:active {
 
 .probootstrap-hero p {
   font-size: 16px;
+  color: #fff;
 }
 
 .probootstrap-hero p:last-child {
   margin-bottom: 0;
+  color: #fff;
 }
 
 .probootstrap-hero .btn {
