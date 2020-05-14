@@ -830,6 +830,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-cta {
+  text-align: center;
   padding: 10px;
   background-image: #7ed321;
   color: #ffffff;
