@@ -1,4 +1,4 @@
 # 200513-haas-landingpage.github.io
-fullscreen hero landing page + full mobile
+This version is for content development
 
-https://lugloe.github.io/200513-haas-landingpage.github.io/
+https://lugloe.github.io/live-version/index.html
