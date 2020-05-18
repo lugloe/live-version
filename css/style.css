@@ -41,6 +41,10 @@
 
 #wrap_all {position:relative !important;}
 
+.break-word {
+  white-space: normal !important;
+  text-align: left;
+}
 
 @font-face {
   font-family: 'icomoon';
